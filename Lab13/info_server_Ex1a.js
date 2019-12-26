@@ -1,0 +1,1 @@
+console.log(users_reg_data['itm352'].password);

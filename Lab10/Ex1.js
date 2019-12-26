@@ -1,0 +1,1 @@
+product1.itemQuantity = 0;
